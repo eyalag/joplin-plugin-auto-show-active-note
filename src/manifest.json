@@ -5,7 +5,7 @@
 	"version": "1.0.1",
 	"name": "Auto show active note in sidebar",
 	"description": "Auto show active note in sidebar",
-	"author": "Eyal Agiv",
+	"author": "Eyal",
 	"homepage_url": "https://github.com/eyalag/joplin-plugin-auto-show-active-note",
 	"repository_url": "https://github.com/eyalag/joplin-plugin-auto-show-active-note",
 	"keywords": []
